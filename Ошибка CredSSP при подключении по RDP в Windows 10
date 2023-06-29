@@ -1,0 +1,3 @@
+CMD run : "REG ADD HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System\CredSSP\Parameters\ /v AllowEncryptionOracle /t REG_DWORD /d 2"
+
+https://www.youtube.com/watch?v=fxyL8113dkc
